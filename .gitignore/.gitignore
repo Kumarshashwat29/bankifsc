@@ -1,0 +1,26 @@
+[
+    {
+    "Bank": "Indian Bank",
+    "IFSC": "IDIB000G082",
+    "MICR": "110019069",
+    "Branch": "Ggs Indraprastha University Dwarka",
+    "Address": "G.g.s. I.p. Universitysector - 16cdwarka",
+    "Contact": "NA",
+    "City": "Delhi",
+    "District": "Delhi",
+    "State": "Delhi",
+    "LastUpdatedOn": "2017-04-20"
+    },
+    {
+    "Bank": "Indian Bank",
+    "IFSC": "IDIB000J040",
+    "MICR": "110019069",
+    "Branch": "Jangpura",
+    "Address": "3,defence Colony Flyover Market,new Delhi,110024",
+    "Contact": "NA",
+    "City": "Delhi",
+    "District": "Delhi",
+    "State": "Delhi",
+    "LastUpdatedOn": "2017-04-20"
+    }
+]
